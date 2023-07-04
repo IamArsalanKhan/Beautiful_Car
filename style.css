@@ -97,7 +97,7 @@ body{
         background-repeat: no-repeat;
         position: absolute;
         left: 50px;
-        bottom: 140px;
+        bottom: 155px;
         animation: Shake linear 3s infinite;
     }
 }
